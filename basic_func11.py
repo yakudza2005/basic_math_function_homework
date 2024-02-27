@@ -3,8 +3,9 @@ def main(a):
     
     Args:
         a (int): a number
-        
+    
     Returns:
         int: the absolute value.
     '''
-    return
+    return abs(a)
+print(main(-123.567))
